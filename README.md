@@ -35,7 +35,7 @@ This repository documents a detailed analysis of the "BackupWin" trojan, initial
 
 | Folder/File | Description |
 |-------------|-------------|
-| [`report.md`](./report.pdf) | Complete, detailed analysis report |
+| [`report.pdf`](./report.pdf) | Complete, detailed analysis report |
 | [`dll_source/`](./dll_source/) | Decompiled malicious DLL code |
 | [`scripts/`](./scripts/) | Malicious script payloads (`api.php`) |
 | [`registry/`](./registry/) | Registry changes captured by Regshot |
